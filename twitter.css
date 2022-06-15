@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{background-color: white;
+
+}
+
+.beggining{
+display: flex;
+justify-content: space-between ;}
+
+
+.div{margin: 170px;}
+
+
+.now{
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hello{color: black;}
+
+.dk{
+color: black;
+float:inherit;
+padding-right: 20px;
+font-size: 25px;}
+
+.down{
+  width: 900px;
+  height: 100%;
+  margin-bottom: 40px;
+}
+.d2{
+height: 70px;
+width: 100px;
+}
+
+
+.acc{
+color:whitesmoke;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-decoration: bold;
+justify-content: space-between 10px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.A{
+display: flex;
+list-style: none;
+color: azure;
+justify-content: space-between;}
+
+.piece{
+padding: 10px 15px 10px 15px;
+border-radius: 50px;
+border: 2px solid aqua;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 18px;
+width: 400px;
+height: 60px;
+margin-top: 10px;
+}
+.piece .fa{
+  padding: 0px 10px;
+  font-size: 20px;
+}
+
+.tick{
+padding: 10px 15px 10px 15px;
+display: flex;
+border: 2px solid aqua;
+justify-content: center;
+margin-top: 10px;
+font-size: 18px;
+align-items: center;
+border-radius: 50px;
+width: 400px;
+height: 60px;
+}
+.tick .fa{
+  padding: 0px 10px;
+  font-size: 20px
+}
+
+.era{
+padding: 10px 15px 10px 15px;
+border-radius: 50px;
+width: 400px;
+height: 50px;
+font-size: 18px;
+background-color: rgb(22, 172, 218);
+border: 0;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+
+.cazz{
+padding: 10px 20px 10px 20px;
+border-radius: 50px;
+width: 400px;
+height: 50px;
+font-size: 18px;
+border-color: 2px aqua;
+color: rgb(22, 172, 218);
+border: 2px aqua;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border: 1px solid gray;
+}
+
+
+.A{color: brown;
+  margin-bottom: 20px;}
+
+.term{color: rgb(22, 172, 218);}
+
+.priva{color: rgb(22, 172, 218);}
+
+.cookie{color: rgb(22, 172, 218);}
+
+.today{
+color: black;
+font-size: 20px;
+margin-bottom: 20px;
+}
+
+.woo{color: black;
+margin-bottom: 25px;}
+
+.apple{
+  padding-inline-start: 20px;
+}
+
+.best{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 17px;}
+
+.cama{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: black;
+font-size: 27px;
+}   
+
+.today{
+font-size: 35px;}
+
+.woo{font-size: 60px;}    
+
